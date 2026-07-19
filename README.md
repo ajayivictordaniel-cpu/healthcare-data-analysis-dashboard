@@ -85,6 +85,7 @@ The project includes an interactive Excel dashboard containing:
 - Admission and discharge analysis
 - Patient risk analysis
 - Interactive filters for month, gender, and age group
+- ![Healthcare Dashboard Preview](dashboard-preview.png)
 
 ## Project File
 
